@@ -1,8 +1,7 @@
-#Git Commands 
+
+Git Commands 
 
 
-
- 
 1.Check the status of working directory and staging area:
   
     git status
