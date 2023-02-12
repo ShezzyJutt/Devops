@@ -1,6 +1,6 @@
 Linux Commands
 
-1.Remote file transfers and syncing:
+1. Remote file transfers and syncing:
 
         rsync
 2. An archiving utility:
